@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25ae1a48-fe9e-4eb6-b733-c4f80a2fc482)# flutter_application_1
+# flutter_application_1
 
 A new Flutter project. To test.
 
