@@ -1,9 +1,6 @@
-# flutter_application_1
+# ПКС.Практика
 
-A new Flutter project. To test.
-
-ПКС. Практическая работа
-Дмитриев А.Р. ЭФБО-03-22
+##Дмитриев А.Р. ЭФБО-03-22
 
 
 ![1](https://github.com/user-attachments/assets/a02b5614-1e10-45c8-94e8-8af7f1f8411e)
